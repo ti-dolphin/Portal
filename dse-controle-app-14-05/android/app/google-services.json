@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1036068230317",
+    "project_id": "fir-dolphin-d3ced",
+    "storage_bucket": "fir-dolphin-d3ced.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036068230317:android:e37499e454e3b26ab9e224",
+        "android_client_info": {
+          "package_name": "br.com.controle.dolphin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036068230317-0qoeqmh590rf8k1glljut577ug6qake4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhkJtNVqdRlcYySiyVOxvps8hXAgYhnKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036068230317-0qoeqmh590rf8k1glljut577ug6qake4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036068230317:android:af229a194e3c2c01b9e224",
+        "android_client_info": {
+          "package_name": "br.com.controle.dolphin.dse_controle_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036068230317-0qoeqmh590rf8k1glljut577ug6qake4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhkJtNVqdRlcYySiyVOxvps8hXAgYhnKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036068230317-0qoeqmh590rf8k1glljut577ug6qake4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

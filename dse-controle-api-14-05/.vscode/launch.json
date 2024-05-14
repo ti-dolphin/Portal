@@ -1,0 +1,71 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+      "type": "node",
+      "request": "launch",
+      "name": "DEVELOP - Debug Server RELIC",
+      "runtimeExecutable": "nodemon",
+      "runtimeArgs": [
+        "--exec",
+        "env-cmd -e dev node",
+		"--inspect"
+      ],
+      "args": [
+        "./server.js"
+      ],
+      "restart": true,
+      "console": "integratedTerminal",
+      "env": {
+        "NEW_RELIC_APP_NAME": "dolphin-backend",
+        "NEW_RELIC_LICENSE_KEY": "b1b8f294500f8e62be2b4d6d65c8c49bFFFFNRAL"
+      }
+	},
+		{
+			"type": "node",
+			"request": "launch",
+			"name": "DEVELOP - Debug Server",
+			"runtimeExecutable": "nodemon",
+			"runtimeArgs": [
+				"--exec",
+				"env-cmd -e dev node",
+				"--inspect",
+			],
+			"args": [
+				"./server.js"
+			],
+			"restart": true,
+			"console": "integratedTerminal"
+		},
+		{
+			"type": "node",
+			"request": "launch",
+			"name": "HOMOL - Debug Server",
+			"runtimeExecutable": "nodemon",
+			"runtimeArgs": [
+				"--exec",
+				"env-cmd -e test node"
+			],
+			"args": [
+				"./server.js"
+			],
+			"restart": true,
+			"console": "integratedTerminal"
+		},
+		{
+			"type": "node",
+			"request": "launch",
+			"name": "PRODUCTION - Debug Server",
+			"runtimeExecutable": "nodemon",
+			"runtimeArgs": [
+				"--exec",
+				"env-cmd -e prod node"
+			],
+			"args": [
+				"./server.js"
+			],
+			"restart": true,
+			"console": "integratedTerminal"
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "webarcondicionado-app",
+  "private_key_id": "b4f855a973b6feb53da142dab00828d2c0020b3b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDCi5mJsEfs1PtL\nZoSJY6IJhWmUEA6bIJajXDuYpQCfzIeyk5GYslSfrYz2auS6NnZpedr89blvm2F5\nXJn9M+zTsK8eT6V/t/bJyc47ZT4hD81zuNXNTVSeEGR+VLzq9QPGcL1hGEjmmSXi\nXfnNuS4W7C0V1HoQNwiErnMZxgCyw3jMDskc2lnuvg34RCtZzV+hngKZZODomvOY\nl5Z72ThaZs5hMbbu8IL1ZKIZ39GDVdol1WD/0TrmmRsoH9Nn+DA6w+SMj816pXuG\nodHOtLcIdSN2sjW8zeeHKf/OXXGz2d1p7N24Z/YIBnZXvDIjeJbi6CHoQ/csiqU7\nJfNLZPg5AgMBAAECggEAA7EZ08wS7AKgANlMMJNByEPOMhoaki+3IW3RpQmUjnPC\nK3heGJ4MZGSrD84NfcnPdhxINJQGgICxWS08Wtq5EXdWi2ZgMfaav0+OE1XOLQXG\nFKka8uTByKdvphoTj7M17svFkZR1ZbLdo4MRsiljyi7nLXU1GnOrkgusHCluv/Wp\n2n6P6PYTheI3SSfgJpEcxDAOso0+ykkVSoTV7AZzSzHn+pcMCL+kYxkMBuga9wLn\n2Ro70E3QwhnH0sg0YUq/9L9kpjfpH/zmPwCj157+2H3RW8vAnDgA2uAPAgmtRvOL\n66wcv5swPXQssWUTziBlTx34hnC7/ehdx4YT+8/25QKBgQDgPO+AHvGFSsvebV/R\np9nBJCbcFVrPth0VKm9n0JXH7EkbN5a9o5EEU7cH9hEp5nMT9m1JcHGi/fB9hpTi\nG9jID5qc+u/+5VmT8EGPoK8OyaK8GGOFUyNb991nwdoQboPZwDmdpjtvf5Q2OfyB\n8mb17qngUj3CHHv6jcwMHxWlkwKBgQDeGfsKycP0JIOuiiwx8eomfZIAlXqpV9gL\n71TljgaUzNTLsWNEiaw/AtC0+kSyor6ksyEX7gARyPw0H6ZsbSsFMWbh0z3S27CV\nEIhuCghxZBSCnoHt1BkRUGXMp/1PtqeN8b0LS8EbblsqdEAGQrrhEk6o+MaDScG+\n8OWicbCKgwKBgCEJ2V/PL1asRo1nIA8L5BGI+hDDNLYV5wMPVYq+ONNUBRF1h0g5\nqUwx6W3K24yI37u5OzDu2E9jiuNzyMvnvnD7m5Q1hNbRg/lAFOjMi/5pxwhfr4od\nTcBnLL/01+RD5DlZESQhMfCjo3q54HJk/LaPi4f5lg/bkojAC6hdjBrxAoGAC16z\nHlND58yyvQ2vw4LJ5NyKy+LbG642ji3bX8EMjzOJNUBIf6q4maUwQAOL3sU8Ezxk\nVlBFyqNKXfS81VIlYKetx6PDx3adrJPjGBcFZaCk+CbbKeywt9Uw0PBMpHcKTtbw\nQZLIOPpGSn8XA/sIjBse0cGij/gHphm4977wNbcCgYBwZoqtdH+lHogzn7q9ZUFt\nRRKETk05rJ9hhaVClfBb3nVXoJ/kiMtbRrHAcnYit5ityJzTdnJ+Qn/kt5Z+xmng\nAlLMS1ee6wCjfKp2NhG555xzHfG6sucU1OxElxTB8nYU+KXsQTYhjwgL7/WYJ7Vw\nKLwIhwO1+llDWsBzIYknlQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-ktrzd@webarcondicionado-app.iam.gserviceaccount.com",
+  "client_id": "102294027683345410543",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-ktrzd%40webarcondicionado-app.iam.gserviceaccount.com"
+}

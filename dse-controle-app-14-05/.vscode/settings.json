@@ -1,0 +1,10 @@
+{
+    "editor.formatOnSave": false,
+    "dart.lineLength": 240,
+    "[dart]": {
+        "editor.formatOnSave": false
+    },
+    "dart.previewFlutterUiGuides": true,
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "cmake.sourceDirectory": "/Users/guilhermelague/roxcode/repositories/dse-controle/dse-controle-app/linux"
+}

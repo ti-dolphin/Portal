@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "roxcode",
+  "private_key_id": "1a9ea691cbb8f6d11f0ea0cd3b2e02f4d1a4c88e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCff59XEO81FhiO\no5/CwW2rQxIHhuhfvRyxxdwH3zF5WcOpCkHzIMoM54+tXOLliBQLpnbeERKbTewT\nnqkmyLpaEjmNAPdfnRpI0lMrNcTume2J7osBypqLM2h7eTM0BbfraltviLg1XKCH\nbpCQnkLZcHs1fVNf8pj4vYyw1D+2y+PsSfJs59FMBenmjd+2dXJ2xVdowgJNg6gc\nfjUjoYDFrXkSOqq8lJH79wJERNNscTfqX4JshOd6MsxJyPjZjtw3YfX769HPw4jh\nrgTz7GWdIsRSUX9DgdwoziqhVweksudWNggGuhudy7UUiVvsYHXcsgNXwUysFuG+\nwoBXovnFAgMBAAECggEADQfd8nzLcjybJoInMf/gEBsjbLKApxu57asy0gDR1651\n/gg8wZqG7112v0zkq6h9rML9mKBv8vi/hg3TF3xUPzoYchTnYOwiotruGQxkSbMR\nNVDkEfIlxKQfT+EjxgcGkujmTfsvQ4rNAauOi4Ymg4G9Sy4xQtg816uSxDqe9vXZ\n5G5UwQouN4etf2nEH6sttvMA+iCQVCHeSO1+A+Q+ktIMeKlQCEfVvv1V78rgGU3L\nP5w6OiJq2KU6uffmLRSbbDFqIzYJwABpi337Jf+aFCfpVGBbjy6zm+gVAZp70g3n\nHdbSiB5lcqQoyg0MIKM9EKFBWBPmnvLopXdq2+H2GQKBgQDNH1qSs0SpIUO/NTHr\nX5T+rU1OWbnFmkxhtuv/kdIQvgVVq6cQPgFj/LBAWB17mZWLD8sBzTnaQIlPvMl5\nCSPEaPhnYZVJRcj/Trv9A6S4dpg7RV/RJSAqTIfQgjvVuFGqQ0SLNSCWNk4UDeKL\neeM+P8gosBY0ii0olyHmdZMaKQKBgQDHD0nBLFSmAulrZAWXZR9Uz3JrwuaaZzVj\n7kQG0IQTKbqzETGdT5fynEnnmsMMs6E1wewE3cDWsS19sFZhLePhDwC5bMa6Kpvg\n30ntc5Kz0ezsFJK6Rej6bDSFq3jjIGauV5fPOfQxvhkSGrqNYaEyykjATmokue5t\noQUrytuOPQKBgQCWxOQDDkd6dVvhcE0n75KJe4JmA6d7qgVYkWZ37IvWCIXNSaU7\nWAgXoUU/lkTdc68qjsotodZTKLqE5IPGNkSW+n0TJ/Pd7rBlkE63E3WArJMKhdx+\n0uYIkUYGqaMnXRqRpm38UGmKX5IWRXpuAIJaX/FUjtFTfvjga+3cAjHEuQKBgCgp\nvoDaV+3y8nO3h6VHQu4SuQxjE7IdltklztXtJmjTZ5cPpgoOcCMEQ6kWQbqDV8iH\n6v4EXA81Sm9sr9EFuE/FfijreKFBTZgulTTyt6vOdFYhxIUO6/Xy9RnvQgHZnL4a\ncEfgcpPCvj435GH4S9T6mXkrmSD13tSBw5BVar0lAoGBAI4d4SxLQ7l6IbPmSuNV\nj0mFX2OXRAzMaVnxC6JReV1bSymviu3ygXMlO83P9MpEbcC79QD0rOKvWz7ZtwVE\nTnofEEuSXVRdGwioFWyVc2/ulw4dBpihLcVUbKaJVcf1rl+pQQOWD4+mc1MNaH6A\nU1IW6S9WC0IFpYIety4UWJm+\n-----END PRIVATE KEY-----\n",
+  "client_email": "adm-bucket-dolphin@roxcode.iam.gserviceaccount.com",
+  "client_id": "115865478436996465527",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/adm-bucket-dolphin%40roxcode.iam.gserviceaccount.com"
+}
